@@ -1,0 +1,5 @@
+test\ank\testCase\common\parsers\impl\ParsersTest.class
+test\ank\testCase\common\utils\TestData.class
+test\ank\testCase\action\BakeryOrderTest.class
+test\ank\testCase\common\utils\FileUtilsTest.class
+test\ank\testCase\action\ProdStoreTest.class
